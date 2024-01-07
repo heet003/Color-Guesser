@@ -5,7 +5,8 @@ Welcome to the Color Guesser Game repository! This simple and interactive game i
 ## How to Play
 
 1. Clone the repository to your local machine.
-   ```bash https://github.com/heet003/Color-Guesser.git
+   ```
+   https://github.com/heet003/Color-Guesser.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
