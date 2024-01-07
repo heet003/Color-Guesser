@@ -1,0 +1,33 @@
+#nav {
+    background-color: teal;
+}
+
+#box {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.heading {
+    text-align: center;
+    color: rgb(255, 254, 254);
+    font-size: 150%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.option1,
+.option2,
+.option3,
+.option4,
+.option5,
+.option6{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    color: white;
+    display: inline-flex;
+    margin: 20px 40px 20px 40px;
+}
